@@ -35,28 +35,40 @@
   border-bottom: 5px solid rgb(235, 220, 84);
 }
 
-.quem_sou {
+.quem-sou {
   text-align: center;
 }
 
-.quem_sou img {
+.quem-sou img {
   border-radius: 50%;
   box-shadow: 0 0 10px 3px #00000055;
   margin-top: 80px;
   margin-bottom: 30px;
 }
 
-.quem_sou h1 {
+.quem-sou h1 {
   font-family: 'Itim', cursive;
   font-size: 3em;
   font-weight: 500;
   margin-bottom: 10px;
 }
 
-.habilidades h2 {
+.secao h2 {
   margin: 50px 0 5px 0;
 }
 
 .habilidades ul {
   padding-left: 50px;
+}
+
+.redes-sociais a {
+  text-decoration: none;
+}
+
+.redes-sociais img {
+  width: 30px;
+}
+
+.redes-sociais-container {
+  text-align: center;
 }
