@@ -7,6 +7,10 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.plr-30 {
+  padding: 0 30px;
+}
+
 .menu {
   background-color: rgb(235, 106, 127);
   padding: 15px;
@@ -47,4 +51,12 @@
   font-size: 3em;
   font-weight: 500;
   margin-bottom: 10px;
+}
+
+.habilidades h2 {
+  margin: 50px 0 5px 0;
+}
+
+.habilidades ul {
+  padding-left: 50px;
 }
