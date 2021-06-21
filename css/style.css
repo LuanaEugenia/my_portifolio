@@ -11,6 +11,10 @@
   padding: 0 30px;
 }
 
+.text-align-center {
+  text-align: center;
+}
+
 .menu {
   background-color: rgb(235, 106, 127);
   padding: 15px;
@@ -33,10 +37,6 @@
 
 .menu a:hover {
   border-bottom: 5px solid rgb(235, 220, 84);
-}
-
-.quem-sou {
-  text-align: center;
 }
 
 .quem-sou img {
@@ -69,6 +69,7 @@
   width: 30px;
 }
 
-.redes-sociais-container {
-  text-align: center;
+.rodape {
+  padding: 20px 0;
+  background-color: pink;
 }
