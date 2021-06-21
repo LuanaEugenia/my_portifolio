@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
 * {
   padding: 0;
   margin: 0;
@@ -27,4 +29,22 @@
 
 .menu a:hover {
   border-bottom: 5px solid rgb(235, 220, 84);
+}
+
+.quem_sou {
+  text-align: center;
+}
+
+.quem_sou img {
+  border-radius: 50%;
+  box-shadow: 0 0 10px 3px #00000055;
+  margin-top: 80px;
+  margin-bottom: 30px;
+}
+
+.quem_sou h1 {
+  font-family: 'Itim', cursive;
+  font-size: 3em;
+  font-weight: 500;
+  margin-bottom: 10px;
 }
